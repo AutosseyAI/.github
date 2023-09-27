@@ -1,6 +1,13 @@
 # AutosseyAI
 
+### Prxmpt
+_Prompt Crafting with JSX_
+
+- [📦 NPM](https://www.npmjs.com/package/@autossey/prxmpt)
+- [🐙 GitHub](https://github.com/AutosseyAI/prxmpt)
+
 ### Autorepo
+_The AI Assistant for GitHub Issues_
 
 - [🌐 Website](https://autorepo.io) - _Autorepo Website_
 - [📖 Docs](https://docs.autorepo.io) - _Autorepo Documentation_
