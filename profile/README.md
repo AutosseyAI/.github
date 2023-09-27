@@ -13,8 +13,8 @@
 
 ### Socials
 
-- [🐦 Twitter](https://twitter.com/autosseyai) - _AutosseyAI Twitter_
-- [💼 LinkedIn](https://www.linkedin.com/company/autosseyai) - _AutosseyAI LinkedIn_
+- [🐦 Twitter](https://twitter.com/autosseyai) - _AutosseyAI on Twitter_
+- [💼 LinkedIn](https://www.linkedin.com/company/autosseyai) - _AutosseyAI on LinkedIn_
 
 ### Contact
 
