@@ -7,7 +7,7 @@
 - [📊 Dashboard](https://app.autorepo.io) - _Autorepo Dashboard_
 - [⬇️ Install](https://github.com/apps/autorepoapp/installations/new) - _Install the Autorepo GitHub App_
 - [⚙️ Configure](https://github.com/apps/autorepoapp/installations/select_target) - _Configure the Autorepo GitHub App_
-- [❔ Issues](https://github.com/AutosseyAI/issues) - _Autorepo Issues Board_
+- [❔ Issues](https://github.com/AutosseyAI/autorepo-issues) - _Autorepo Issues Board_
 
 ### Socials
 
